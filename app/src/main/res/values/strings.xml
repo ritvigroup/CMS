@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Umnag</string>
+    <string-array name="langauage">
+        <item>Hindi</item>
+        <item>English</item>
+    </string-array>
+</resources>
