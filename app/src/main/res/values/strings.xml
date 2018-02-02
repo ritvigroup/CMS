@@ -1,7 +1,15 @@
 <resources>
-    <string name="app_name">Umnag</string>
+
+    <string name="app_name">CMS</string>
+
+    <string name="facebook_app_id">144567099675348</string>
+    <string name="fb_login_protocol_scheme">fb144567099675348</string>
+
     <string-array name="langauage">
         <item>Hindi</item>
         <item>English</item>
     </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
 </resources>
